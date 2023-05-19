@@ -7,15 +7,6 @@
 [![ezgif com-video-to-gif (6)](https://github.com/yhbe/yhbe/assets/101876022/33f03098-f85a-4b31-ab5b-decf24e3e65c)](https://github.com/yhbe/Blog-Client)
 
 
-
-
-| Projects | Projects |
-| --- | --- |
-| [Instagram][https://github.com/yhbe/Instagram] <br> [![][![ezgif com-video-to-gif (4)]][https://github.com/yhbe/Instagram]
-
-
-
-
 <!--
 **yhbe/yhbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
