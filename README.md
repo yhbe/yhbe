@@ -6,7 +6,7 @@
 [![Blog](https://github-production-user-asset-6210df.s3.amazonaws.com/101876022/239617324-33f03098-f85a-4b31-ab5b-decf24e3e65c.gif)](https://github.com/yhbe/Blog-Client)
 [![ShareSpace](https://github-production-user-asset-6210df.s3.amazonaws.com/101876022/239621455-e5eb74c0-717f-4fb8-8cd8-926100350ac6.png)](https://github.com/yhbe/ShareSpace)
 
-[![pokemon](https://github-production-user-asset-6210df.s3.amazonaws.com/101876022/239705702-574f00c8-7c5d-417f-8318-dc90758c1d60.gif)](https://github.com/yhbe/PokemonMemoryGame)
+[![Pokemon Memory Game](https://github.com/yhbe/yhbe/assets/101876022/72e0c00d-9b5e-4368-8d98-ee240e5d95d6)](https://github.com/yhbe/PokemonMemoryGame)
 
 
 <!--
